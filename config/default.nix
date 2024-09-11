@@ -6,6 +6,10 @@
     ./sets.nix
     ./highlight.nix
 
+    # Setup Aiken 
+    ./aiken/aiken.nix
+    ./aiken/setup.nix
+
     ./plug/colorscheme/colorscheme.nix
 
     ./plug/completion/cmp.nix
@@ -36,7 +40,7 @@
     ./plug/treesitter/treesitter.nix
 
     ./plug/ui/alpha.nix
-    ./plug/ui/btw.nix
+    # ./plug/ui/btw.nix
     ./plug/ui/bufferline.nix
     ./plug/ui/dressing.nix
     ./plug/ui/indent-blankline.nix

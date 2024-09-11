@@ -33,6 +33,21 @@
         yamlls = {
           enable = true;
         };
+        elixirls = {
+          enable = true;
+        };
+
+        gleam = {
+          enable = true;
+        };
+
+        hls = {
+          enable = true;
+        };
+
+
+
+
       };
       keymaps = {
         silent = true;
